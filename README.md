@@ -1,2 +1,2 @@
-# relogio-cronometro
-Relógio e Cronometro desenvolvido para estudos de JavaScript
+# Projeto de estudos: Relógio & Cronometro
+Relógio e Cronômetro desenvolvido para estudos de JavaScript. Fiz o site ao descorrer do curso "Curso Grátis de JavaScript e ECMAScript para Iniciantes" do canal Curso em Vídeo. O site não é um projeto do curso e sim um projeto pessoal de estudos. Queria me adpatar um pouco melhor ao uso de data/horário no JS, vi uma grande oportunidade com o curso, pois tinha desenvolvido um pequeno relógio e quis me aprofundar, adicionando a função "setInterval" para a atualização automática do relógio, e um cronômetro adicional, o que não não existia no projeto do curso.
